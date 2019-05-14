@@ -1,0 +1,14 @@
+{'portofolio': [
+{'id': 1,
+'title': 'Web',
+'description': 'Ini mata kuliah apa gitu?'
+},
+{'id': 2,
+'title': 'Integrasi',
+'description': 'Ini mata kuliah apa gitu?'
+},
+{'id': 3,
+'title': 'Bahasa Lumba Lumba',
+'description': 'Ini mata kuliah apa gitu?'
+}
+]
